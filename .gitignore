@@ -1,0 +1,8 @@
+build/
+*.root
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+io_benchmark
+.DS_Store
